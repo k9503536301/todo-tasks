@@ -1,0 +1,17 @@
+.formErrors{
+    display: flex;
+    font-size: 1.1rem;
+    margin-left: 80px;
+    margin-bottom: 2px;
+    font-weight: bold;
+    color: red;
+    border-radius: 5px;
+    padding: 8px 50px 10px  50px;
+    align-content: center;
+}
+
+.alert {
+    margin-left: 70px;
+    border-radius: 5px;
+    padding: 8px 50px 10px  50px;
+}

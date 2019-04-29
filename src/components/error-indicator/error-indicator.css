@@ -1,0 +1,13 @@
+.error-indicator {
+  width: 100%;
+  display: flex;
+  margin-top: 50px;
+  flex-direction: column;
+  align-items: center;
+  color: red;
+}
+
+
+.error-indicator .oops {
+  font-size: 2rem;
+}

@@ -1,0 +1,9 @@
+.add-form-panel {
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.has-error{
+    border: 1px solid LightCoral;
+    border-radius: 3px;
+}
